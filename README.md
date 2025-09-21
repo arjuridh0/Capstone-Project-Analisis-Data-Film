@@ -74,3 +74,18 @@ Classification → membantu identifikasi pola data
 Summarization → merangkum insight penting
 
 Interactive Chat → berdiskusi langsung dengan AI untuk eksplorasi lebih lanjut
+
+## **📑 Output**
+
+Hasil akhir dapat dilihat pada file berikut:
+
+outputs/final_project_results.xlsx → gabungan hasil classification, summarization, dan chat history.
+
+outputs/film_analysis_results.csv → hasil classification dan summarization data
+
+outputs/chat_history.txt → log percakapan AI (opsional).
+
+## **👤 Author**
+
+Nama: Muhammad Arju Ridho Maulana
+Batch: Hacktiv8 - Capstone Project
