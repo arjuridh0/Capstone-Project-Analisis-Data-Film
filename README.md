@@ -10,7 +10,7 @@ Hasil akhir mencakup:
 
 - Recommendations
 
-📂 Dataset
+## 📂 Dataset
 
 Dataset yang digunakan tersedia dalam format .zip (misalnya archive.zip) dan dapat diunduh dari folder data
 
@@ -40,14 +40,14 @@ pip install -r requirements.txt
 
 - replicate → akses model AI eksternal
 
-**🔑 API Token Setup**
+## **🔑 API Token Setup**
 
 Untuk menghubungkan dengan model AI, buat file token di Colab:
 
 import os
 os.environ["api_token2"] = "YOUR_API_KEY"
 
-**📈 Analysis Process**
+## **📈 Analysis Process**
 
 - Data loading dan preprocessing
 
@@ -59,13 +59,13 @@ os.environ["api_token2"] = "YOUR_API_KEY"
 
 - (Opsional) Interactive chat dengan AI untuk diskusi hasil
 
-✅ Conclusion & Recommendations
+## ✅** Conclusion & Recommendations**
 
 Program ini merupakan program yang sudah powerfull untuk menganalisis sebuah data, dengan adanya proses cleaning data, classification data, summarization data, serta fitur interactive chat dengan AI secara real-time untuk menanyakan informasi terkait hasil dari data yang sudah proses.
 
 Program ini bisa dikembangkan lagi agar lebih interaktif dan user friendly serta bisa dikembangkan agar lebig fleksibel untuk menangani data lain selain data film
 
-🤖 AI Support Explanation
+## 🤖** AI Support Explanation**
 
 AI digunakan untuk mendukung analisis melalui fitur:
 
