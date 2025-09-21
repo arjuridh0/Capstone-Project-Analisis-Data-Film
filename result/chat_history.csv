@@ -1,0 +1,3 @@
+user,ai
+"apa film terbaik sesuai data yang ada, sebutkan 3","Dari data yang ada, tiga film terbaik adalah The Shawshank Redemption (9.3/10, Drama), The Godfather (9.2/10, Crime,Drama), dan The Dark Knight (9.0/10, Action,Crime,Drama)."
+"apa film terburuk pada data, dan berikan alasan","Film dengan rating terendah dalam data adalah Harry Potter and the Sorcerers Stone, Once Upon a Time in... Hollywood, dan American Psycho, dengan rating masing-masing 7.6/10. Alasan mereka masuk dalam kategori film negatif (rating <8.0) adalah karena rating mereka tidak melebihi batas yang ditetapkan."
