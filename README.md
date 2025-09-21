@@ -88,4 +88,5 @@ outputs/chat_history.txt → log percakapan AI (opsional).
 ## **👤 Author**
 
 Nama: Muhammad Arju Ridho Maulana
+
 Batch: Hacktiv8 - Capstone Project
